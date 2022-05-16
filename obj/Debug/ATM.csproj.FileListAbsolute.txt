@@ -1,0 +1,12 @@
+D:\New Folder\ATM\ATM\bin\Debug\ATM.exe.config
+D:\New Folder\ATM\ATM\bin\Debug\ATM.exe
+D:\New Folder\ATM\ATM\bin\Debug\ATM.pdb
+D:\New Folder\ATM\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+D:\New Folder\ATM\ATM\obj\Debug\ATM.exe
+D:\New Folder\ATM\ATM\obj\Debug\ATM.pdb
+D:\project\ATM\ATM\bin\Debug\ATM.exe.config
+D:\project\ATM\ATM\obj\Debug\ATM.exe
+D:\project\ATM\ATM\obj\Debug\ATM.pdb
+D:\project\ATM\ATM\bin\Debug\ATM.exe
+D:\project\ATM\ATM\bin\Debug\ATM.pdb
+D:\project\ATM\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
